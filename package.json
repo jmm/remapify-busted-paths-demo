@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "browserify": "6.x",
+    "remapify": "^1.4.x"
+  }
+}
